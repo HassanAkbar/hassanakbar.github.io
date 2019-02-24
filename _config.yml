@@ -2,7 +2,7 @@
 title: Hassan Akbar - Software Engineer
 description: "A blog about lorem ipsum ..."
 baseurl: "/home" # for test: remove string '/space-jekyll-template' to ''
-url: "http://hassanakbar.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Hassan Akbar
