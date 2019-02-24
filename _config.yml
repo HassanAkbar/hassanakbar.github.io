@@ -59,13 +59,13 @@ links:
       key_trigger: s #WARNING: search only works with "s"
 #https://github.com/samikeijonen/svg-social-menu/blob/master/svg-icons.php
 # projects in header index
-projects:
-  - name: AssetSonar
-    url: https://www.assetsonar.com/
-  - name: EZRentOut
-    url: https://www.ezrentout.com/
-  - name: EZOfficeInventory
-    url: https://www.ezofficeinventory.com/
+# projects:
+#   - name: AssetSonar
+#     url: https://www.assetsonar.com/
+#   - name: EZRentOut
+#     url: https://www.ezrentout.com/
+#   - name: EZOfficeInventory
+#     url: https://www.ezofficeinventory.com/
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
