@@ -8,11 +8,11 @@ url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in pro
 username: Hassan Akbar
 user_title: Hassan Akbar - Software Engineer
 email: hassanakbar2@gmail.com
-twitter_username: loremipsum
+twitter_username: Ha5SanAkbar
 github_username:  hassanakbar
 gplus_username:  HassanAkbar4
 linkedin_public_url: hassanakbar # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
+disqus_username: hassanakbar
 profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
 
 # Build settings
@@ -56,7 +56,7 @@ links:
     - title: search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
-
+#https://github.com/samikeijonen/svg-social-menu/blob/master/svg-icons.php
 # projects in header index
 # projects:
 #   - name: fluany
