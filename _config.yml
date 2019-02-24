@@ -1,6 +1,6 @@
 # Site settings
 title: Hassan Akbar - Software Engineer
-description: "A blog about lorem ipsum ..."
+description: "Meet A Tech Monomaniac & A Travelling Freak."
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
