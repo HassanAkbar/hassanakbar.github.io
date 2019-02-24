@@ -15,7 +15,7 @@ gplus_username:  HassanAkbar4
 linkedin_public_url: hassanakbar # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: hassanakbar
 profile_picture: /assets/img/portfolio/mine.jpg
-
+/Users/hassanakbar/Documents/GitHub/hassan.gihub.io/assets/img/portfolio
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -59,13 +59,13 @@ links:
       key_trigger: s #WARNING: search only works with "s"
 #https://github.com/samikeijonen/svg-social-menu/blob/master/svg-icons.php
 # projects in header index
-# projects:
-#   - name: fluany
-#     url: https://github.com/fluany/fluany
-#   - name: vim-frontend
-#     url: https://github.com/victorvoid/vim-frontend
-#   - name: generator-capybara
-#     url: https://github.com/victorvoid/generator-capybara 
+projects:
+  - name: AssetSonar
+    url: https://www.assetsonar.com/
+  - name: EZRentOut
+    url: https://www.ezrentout.com/
+  - name: EZOfficeInventory
+    url: https://www.ezofficeinventory.com/
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
