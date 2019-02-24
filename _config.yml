@@ -15,7 +15,7 @@ gplus_username:  HassanAkbar4
 linkedin_public_url: hassanakbar # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: hassanakbar
 profile_picture: /assets/img/portfolio/mine.jpg
-/Users/hassanakbar/Documents/GitHub/hassan.gihub.io/assets/img/portfolio
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
