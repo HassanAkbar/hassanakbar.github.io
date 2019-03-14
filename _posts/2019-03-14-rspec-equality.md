@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "RSpec & Equivalence Matchers"
 image: ''
-date:   2019-03-10 00:06:31
+date:   2019-03-14 00:06:31
 tags:
 - rails
 - rspec
