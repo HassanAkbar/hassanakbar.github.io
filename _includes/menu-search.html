@@ -44,6 +44,15 @@
             <li>
                 <a href="{{ link.url }}">{{ link.title }}</a>
             </li>
+        {% else if link.new_tab %}
+            <li>
+                <span class="counter-menu">{{link.key_trigger}}</span>
+                <svg viewBox="0 0 50 50" class="icon-arrow-menu">
+                    <use xlink:href="#icon-right-arrow"></use>
+                </svg>
+                <a key-trigger={{ link.key_trigger }}
+                    href="{{ link.url }}"> {{ link.title }}</a>
+            </li>
         {% else %}
             <li>
                 <span class="counter-menu">{{link.key_trigger}}</span>
